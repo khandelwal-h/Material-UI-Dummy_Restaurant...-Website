@@ -1,0 +1,9 @@
+npm install @mui/material @emotion/react @emotion/styled react-router-dom
+
+
+install mui icons      npm install @mui/icons-material
+
+
+if setup will not work go to package.json and set this in start
+"scripts": {
+    "start": "react-scripts --openssl-legacy-provider start",
